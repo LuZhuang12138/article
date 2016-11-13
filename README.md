@@ -5,4 +5,4 @@
 <br>
 <br>
 <br>
-<div align="center">![image](https://github.com/LuZhuang12138/article/blob/master/img/img02.jpg) </div>
+![image](https://github.com/LuZhuang12138/article/blob/master/img/img02.jpg)
